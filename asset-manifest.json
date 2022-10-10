@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/skygadetswebsite/static/css/main.3793e3e4.css",
+    "main.js": "/skygadetswebsite/static/js/main.65a23c9c.js",
+    "static/media/p1.jpg": "/skygadetswebsite/static/media/p1.6509f6c58857910dd00f.jpg",
+    "static/media/mobile.png": "/skygadetswebsite/static/media/mobile.83fe2f35d8b45e7ed93a.png",
+    "static/media/p3.jpg": "/skygadetswebsite/static/media/p3.be27726e430f2a5f073f.jpg",
+    "static/media/p4.jpg": "/skygadetswebsite/static/media/p4.d6d3193c5830db141193.jpg",
+    "static/media/p2.jpg": "/skygadetswebsite/static/media/p2.547662bf9d158b9dc910.jpg",
+    "static/media/sg.png": "/skygadetswebsite/static/media/sg.b5da125bb3d4a5806ee6.png",
+    "static/media/laptop.jpg": "/skygadetswebsite/static/media/laptop.5b742b970b32c9b04fa7.jpg",
+    "static/media/camera.jpg": "/skygadetswebsite/static/media/camera.d69f6472f3585b9647f8.jpg",
+    "index.html": "/skygadetswebsite/index.html",
+    "main.3793e3e4.css.map": "/skygadetswebsite/static/css/main.3793e3e4.css.map",
+    "main.65a23c9c.js.map": "/skygadetswebsite/static/js/main.65a23c9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3793e3e4.css",
+    "static/js/main.65a23c9c.js"
+  ]
+}
