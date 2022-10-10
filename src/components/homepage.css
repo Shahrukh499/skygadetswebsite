@@ -1,0 +1,164 @@
+/* Free shipping Quality Product and Easy to return responsive css */
+
+.product-info{
+    margin: 160px 0px 160px 0px;
+}
+.ship{
+    height: 100px;
+    width: 90px;
+}
+
+@media (max-width : 376px){
+    .product-info{
+        margin: 50px 0px 50px 0px;
+    }
+    .row{
+        display: block;
+    }
+    .colum1{
+        width: auto;
+    }
+}
+
+
+@media (min-width : 376px) and (max-width : 767px){
+    .product-info{
+        margin: 50px 0px 50px 0px;
+    }
+    .ship{
+        height: 60px;
+        width: 35px;
+    }
+    .heading1{
+        font-size: 8px;
+        font-weight: bolder;
+        width: auto;
+    }
+    .parg1{
+        font-size: 5px;
+    }
+}
+
+@media (min-width : 768px) and (max-width : 1023px){
+    .product-info{
+        margin: 100px 0px 100px 0px;
+    }
+    .ship{
+        height: 90px;
+        width: 70px;
+    } 
+    .heading1{
+        font-size: 20px;
+        width: auto;
+    }
+    .parg1{
+        font-size: 12px;
+    }
+    
+}
+
+/* ------------------------------------------------------------------------------------------------------------ */
+
+/*----------------------- Our Product Css -------------------*/
+
+.our-product{
+    background-color: rgb(226, 226, 226);
+    padding: 25px 3px 15px 3px ;
+    margin-bottom: 5px;
+}
+
+.img1{
+    height: 290px;
+    width: 400px;
+    box-shadow: 5px 3px 11px rgb(82, 82, 82);
+    border-radius: 2px;
+}
+
+@media (max-width : 376px){
+    .img1{
+        height: 230px;
+        width: 330px;
+    }
+}
+
+@media (min-width : 768px) and (max-width : 1023px){
+    .img1{
+        height: 160px;
+        width: 300px;
+        padding: 1px 3px 1px 3px ;
+    }
+}
+
+/* -----------------------------------------------------------------------------------------------  */
+
+/* --------------------- About us css ---------------------- */
+
+.blocks{
+    justify-content: center;
+    display: flex;
+}
+.block1{
+    background-color: darkseagreen;
+    width: 350px;
+    padding: 20px;
+}
+
+.block2{
+    background-color:lightgray;
+    width: 350px;
+    padding: 20px;
+}
+.track-order{
+    padding: 0px 0px 10px 40px;
+    font-size: 40px;
+}
+
+.block3{
+    background-color:gold;
+    width: 350px;
+    padding: 20px;
+}
+
+@media (max-width : 525px){
+  .blocks{
+    display: block;
+  }
+}
+
+@media (max-width : 525px){
+    .block1, .block2, .block3{
+       width: auto;
+    }
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+
+/* -------------------- Contact Us css -----------------------  */
+
+.contact{
+    background-color: rgb(30, 28, 28);
+}
+
+.contact-heading{
+    color: white;
+}
+.icon1{
+    font-size: 40px;
+    color: white;
+}
+.parg2{
+    color: white;
+}
+.algn1{
+    margin:50px 0px 0px 0px ;
+}
+
+/* -------------------------------------------------------------------------------------------------- */
+
+/* ------------------------ Footer Css ----------------------- */
+
+.footer{
+    padding: 30px 0px 5px 0px;
+    background-color: rgb(58, 54, 54);
+    color: white;
+}
