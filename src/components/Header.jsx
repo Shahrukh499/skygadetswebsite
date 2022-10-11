@@ -53,7 +53,7 @@ export default function Header() {
     <>
       <Navbar expand="lg" bg="dark" variant="dark">
         <Container>
-          <NavLink className="text-decoration-none text-light mx-3" to="/">
+          <NavLink className="text-decoration-none text-light mx-3" to="/skygadetswebsite">
             <img
               src={sg}
               alt="logo"
@@ -63,7 +63,7 @@ export default function Header() {
           </NavLink>
           <Navbar.Collapse className="justify-content-end me-4">
             <Nav className="me-4">
-              <NavLink className="text-decoration-none text-light me-3" to="/">
+              <NavLink className="text-decoration-none text-light me-3" to="/skygadetswebsite">
                 Home
               </NavLink>
               <NavLink className="text-decoration-none text-light me-3" to="/">
