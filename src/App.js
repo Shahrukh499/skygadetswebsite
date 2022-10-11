@@ -15,7 +15,7 @@ function App() {
     <>
       <Header/>
       <Routes>
-        <Route exact path="/skygadetswebsite" element={<Homepage/>}/>
+        <Route exact path="/" element={<Homepage/>}/>
         <Route exact path='/card' element={<Cards/>}/>
         <Route path='/cart/:id' element={<CardDetails/>}/>
         <Route path='/about' element={<About/>}/>
